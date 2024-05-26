@@ -116,6 +116,9 @@ a{
     .right-description{
         text-align: center;
     }
+    .footer{
+        margin-top: 0px;
+    }
 }
 
 @media (max-width:900px){
@@ -159,7 +162,7 @@ a{
     .footer p{
         font-size: 1.1rem;
         margin: 0px;
-        margin-top: 15px;
+        margin-top: 20px;
         text-align: center;
     }
 }
